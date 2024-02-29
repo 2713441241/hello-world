@@ -1,8 +1,6 @@
 #include <stdio.h>
 int main()
 {
-	printf("short:%d\n",sizeof(short));
-	printf("unsgned short:%lu\n", sizeof(unsigned short));
 	printf("int:%d\n", sizeof(int));
 	printf("unsigned int:%d\n", sizeof(unsigned int));
 	printf("long:%d\n", sizeof(long));
